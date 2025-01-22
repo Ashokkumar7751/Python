@@ -99,9 +99,9 @@ def menu():
     while True:
         print("\nWelcome to Employee Management Record")
         print("Press:")
-        print("1 to Add Employee")
-        print("2 to Remove Employee")
-        print("3 to Promote Employee")
+        print("1 to Add Employees")
+        print("2 to Remove Employees")
+        print("3 to Promote Employees")
         print("4 to Display Employees")
         print("5 to Exit")
         
